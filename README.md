@@ -1,9 +1,9 @@
 # TaskManager API
 
-API REST em ASP.NET Core 8 para gerenciamento de tarefas, com autenticação JWT e banco SQLite via Entity Framework Core.
+API REST em ASP.NET Core 10 para gerenciamento de tarefas, com autenticação JWT e banco SQLite via Entity Framework Core.
 
 ## Tecnologias
-- ASP.NET Core 8 (Web API)
+- ASP.NET Core 10 (Web API)
 - Entity Framework Core + SQLite
 - Autenticação JWT
 - BCrypt para hash de senha
