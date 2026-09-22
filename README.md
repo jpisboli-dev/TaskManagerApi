@@ -10,7 +10,7 @@ API REST em ASP.NET Core 8 para gerenciamento de tarefas, com autenticação JWT
 - Swagger / OpenAPI
 
 ## Pré-requisitos
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) instalado
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) instalado
 
 ## Como rodar
 
